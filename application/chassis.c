@@ -20,8 +20,8 @@ float cal_target[4];
 
  void rx_motor_init(void)
 {
-		rx_motor.V_x=200;
-		rx_motor.V_y=400;
+		rx_motor.V_x=600;
+		rx_motor.V_y=0;
 		rx_motor.W=0;
 }
 
